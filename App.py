@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 @st.cache_resource
 def load_summarizer():
-  return pipeline("summarization", model="facebook/bart-large-cnn")
+  return pipeline("summarization", model="Bocklitz-Lab/lit2vec-tldr-bart-model")
 
 summarizer = load_summarizer()
 #streamlit UI
