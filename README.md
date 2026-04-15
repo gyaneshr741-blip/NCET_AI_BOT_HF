@@ -1,3 +1,1 @@
-The Project: 1.  LLM Based Bot using GROQ and LLAMA.
-             2. Streamlit UI
-             3.Deployed over Streamlit
+AI BOT - Using HF Model - Summarizing the Text
