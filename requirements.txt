@@ -1,4 +1,5 @@
 streamlit
 transformers
-torch vision
+torch
+torchvision
 accelerate
